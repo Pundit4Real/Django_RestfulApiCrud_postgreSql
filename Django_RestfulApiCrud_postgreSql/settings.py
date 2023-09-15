@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'restfulApiDB',
         'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'PASSWORD': 'pundit@2035P#',
         'HOST': 'localhost',
     }
 }

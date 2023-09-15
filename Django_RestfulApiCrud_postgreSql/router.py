@@ -6,5 +6,5 @@ from rest_framework import routers
 app_name = 'employeeApi'
 
 router = routers.DefaultRouter()
-router.register('employee',EmployeeViewset)
+router.register('employee',EmployeeViewset,basename='EmployeeViewset')
 
